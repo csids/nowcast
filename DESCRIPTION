@@ -10,15 +10,13 @@ Authors@R: c(
   ),
   person(c("Aurora", "Christine"), "Hofman", role = "aut", 
     comment = c(ORCID = "0000-0001-6543-5134")
-  ),
-  person(given = "Folkehelseinstituttet",
-  role = c("cph"))
+  )
   )
 Description: Real-time surveillance on all-cause mortality with delay adjustments.
 Depends: R (>= 3.3.0)
 License: MIT + file LICENSE
-URL: https://docs.sykdomspulsen.no/nowcast, https://github.com/sykdomspulsen-org/nowcast
-BugReports: https://github.com/sykdomspulsen-org/nowcast/issues
+URL: https://www.csids.no/nowcast/, https://github.com/csids/nowcast
+BugReports: https://github.com/csids/nowcast/issues
 Encoding: UTF-8
 LazyData: true
 Imports: data.table,

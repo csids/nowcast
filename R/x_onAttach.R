@@ -12,6 +12,6 @@
     "nowcast ",
     version,
     "\n",
-    "https://docs.sykdomspulsen.no/nowcast"
+    "https://www.csids.no/nowcast/"
   ))
 }
