@@ -1,0 +1,12 @@
+pandoc: 2.19.2
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  aggregation_and_delays: aggregation_and_delays.html
+  introduction: introduction.html
+  simulate_mortality_data: simulate_mortality_data.html
+last_built: 2022-12-16T07:10Z
+urls:
+  reference: https://www.csids.no/nowcast/reference
+  article: https://www.csids.no/nowcast/articles
+
