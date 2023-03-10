@@ -5,3 +5,5 @@
 ^license\.md$
 ^cran-comments\.md$
 Makefile
+^doc$
+^Meta$
