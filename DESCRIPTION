@@ -10,7 +10,8 @@ Authors@R: c(
   ),
   person(c("Aurora", "Christine"), "Hofman", role = "aut", 
     comment = c(ORCID = "0000-0001-6543-5134")
-  )
+  ),
+  person("CSIDS", email = "hello@csids.no", role = c("cph"))
   )
 Description: Real-time surveillance on all-cause mortality with delay adjustments.
 Depends: R (>= 3.3.0)
